@@ -1,4 +1,4 @@
-#CSV - Comma separated values abd Class Methods
+#CSV - Comma separated values and Class Methods
 
 import csv
 
